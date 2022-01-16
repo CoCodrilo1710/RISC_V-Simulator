@@ -11,9 +11,9 @@ Created with ❤️ by **Odin's Triskele**
 
 ## Acest proiect a fost realizat de echipa ***Odin's triskele*** , cu membrii componenți: 
 
-#### ```Iliescu Gabriel Bogdan (grupa 132)        ```                                 
+#### ```  Andriciuc Andreea Cristina (grupa 132)      ```                                 
 ####                 ```Ghinea Dragoș Dumitru (grupa 132)    ```  
-#### ```Andriciuc Andreea Cristina (grupa 132)```
+#### ```Iliescu Gabriel Bogdan (grupa 132)```
 
 # Requirements install 
 
